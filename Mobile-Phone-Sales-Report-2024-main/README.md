@@ -48,6 +48,6 @@ The goal: **Deliver business-ready insights** to understand **top-performing pro
 ---
 ## 👩‍💻 Author
 
-**Gitanjali Pekamwar**  
+**Pooja Puthu Vayal**  
 Data Enthusiast
-🔗 [LinkedIn](https://www.linkedin.com/in/gitanjalipekamwar)
+

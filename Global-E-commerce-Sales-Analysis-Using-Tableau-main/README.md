@@ -53,18 +53,10 @@ This interactive **Global Ecommerce Dashboard** was built using Tableau to analy
   - Filter options for Market and Customer Segment
 ---
 
-## 📎 How to View the Dashboard
-
-- **Hosted on Tableau Public**: [https://github.com/GitanjaliPekamwar/Global-E-commerce-Sales-Analysis-Using-Tableau/blob/main/Global%20Ecommerce%20Sales%20Analysis%20Dashboard.twbx]
-- Or open the `.twbx` file in Tableau Desktop
-
----
-
 ## 👩‍💻 Author
 
-**Gitanjali Pekamwar**  
+**Pooja Puthu Vayal**  
 Data Analyst Enthusiast | Tableau | Power BI | SQL | Excel | Python
-🔗 [LinkedIn](https://www.linkedin.com/in/gitanjalipekamwar)
 
 ---
 

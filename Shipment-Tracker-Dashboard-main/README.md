@@ -38,9 +38,9 @@ The **Shipment Tracker** Power BI dashboard provides an interactive visualizatio
 The dataset was sourced from **[ Kaggle]**.
 
 ## 📝 Author
-- **Gitanjali Pekamwar**
-- **Role:** Data Analyst Aspirant
-- **Contact:** [pekamwargitanjali@gmail.com]
+- **Pooja Puthu Vayal**
+- **Role:** Data Analyst
+- **Contact:** [poojaprem116@gmail.com]
 
 ---
 

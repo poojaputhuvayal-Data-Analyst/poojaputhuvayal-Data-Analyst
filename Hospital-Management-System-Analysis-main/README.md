@@ -85,6 +85,5 @@ Hospital-Management-System-Analysis/
 
 ## 👩‍💻 Author
 
-**Gitanjali Pekamwar**  
+**Pooja Puthu Vayal**  
 Data Analyst Enthusiast | Tableau | Power BI | SQL | Excel | Python
-🔗 [LinkedIn](https://www.linkedin.com/in/gitanjalipekamwar)

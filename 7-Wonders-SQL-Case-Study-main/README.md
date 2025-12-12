@@ -6,7 +6,7 @@
 ## 📸 Sneak Peek 
 
 
-![Seven Wonders SQL Case Study](https://github.com/GitanjaliPekamwar/7-Wonders-SQL-Case-Study/blob/main/Screenshot%202025-05-03%20192218.png)
+![Seven Wonders SQL Case Study](https://github.com/poojaputhuvayal-Data-Analyst/7-Wonders-SQL-Case-Study/blob/main/Screenshot%202025-05-03%20192218.png)
 ---
 
 ## 📌 Overview
@@ -78,16 +78,6 @@ Whether you're a data enthusiast or just love world history, this case study off
 
 ---
 
-## 🙌 Acknowledgements
-
-Thanks to **Digits and Data** for curating such an exciting and meaningful dataset.  
-Created with curiosity and code by [Gitanjali Pekamwar](https://www.linkedin.com/in/gitanjali-pekamwar).
-
----
-
-### 🚀 Ready to Explore? Go on!
-
-[📄 Seven_Wonders_SQL_Case_Study_by_Gitanjali_Pekamwar.pdf](.[/https://github.com/GitanjaliPekamwar/7-Wonders-SQL-Case-Study/blob/main/Exploring%20the%20Amazing%20wonders%20of%20the%20world%20with%20SQL%20(1).pdf])
 ---
 
 

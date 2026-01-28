@@ -40,7 +40,7 @@ The dataset was sourced from **[ Kaggle]**.
 ## 📝 Author
 - **Pooja Puthu Vayal**
 - **Role:** Data Analyst
-- **Contact:** [poojaprem116@gmail.com]
+- **Contact:** [poojaprem1116@gmail.com]
 
 ---
 
